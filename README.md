@@ -3,5 +3,5 @@
 - pip install requests
 - pip install playwright
 
-# Install playwright
+# Avant de commencer
 - playwright install 
